@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="420450" started-at="2020-02-19T12:45:23Z" finished-at="2020-02-19T12:52:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="420450" started-at="2020-02-19T12:45:23Z" finished-at="2020-02-19T12:52:24Z">
+      <class name="com.automation.playstore.Playstore_NewMovies.VerifyAction">
+        <test-method status="PASS" signature="launchUrl()[pri:0, instance:com.automation.playstore.Playstore_NewMovies.VerifyAction@754ba872]" name="launchUrl" duration-ms="34629" started-at="2020-02-19T12:45:23Z" finished-at="2020-02-19T12:45:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method status="PASS" signature="signIn()[pri:1, instance:com.automation.playstore.Playstore_NewMovies.VerifyAction@754ba872]" name="signIn" duration-ms="6542" started-at="2020-02-19T12:45:58Z" finished-at="2020-02-19T12:46:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="Credentials()[pri:2, instance:com.automation.playstore.Playstore_NewMovies.VerifyAction@754ba872]" name="Credentials" duration-ms="2808" started-at="2020-02-19T12:46:05Z" finished-at="2020-02-19T12:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Credentials -->
+        <test-method status="PASS" signature="chooseMoviesOptionfromHome()[pri:3, instance:com.automation.playstore.Playstore_NewMovies.VerifyAction@754ba872]" name="chooseMoviesOptionfromHome" duration-ms="7455" started-at="2020-02-19T12:46:07Z" finished-at="2020-02-19T12:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseMoviesOptionfromHome -->
+        <test-method status="PASS" signature="chooseNewReleases()[pri:4, instance:com.automation.playstore.Playstore_NewMovies.VerifyAction@754ba872]" name="chooseNewReleases" duration-ms="2175" started-at="2020-02-19T12:46:15Z" finished-at="2020-02-19T12:46:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseNewReleases -->
+        <test-method status="PASS" signature="chooseGenres()[pri:5, instance:com.automation.playstore.Playstore_NewMovies.VerifyAction@754ba872]" name="chooseGenres" duration-ms="366789" started-at="2020-02-19T12:46:17Z" finished-at="2020-02-19T12:52:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseGenres -->
+      </class> <!-- com.automation.playstore.Playstore_NewMovies.VerifyAction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
